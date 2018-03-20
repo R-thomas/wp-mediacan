@@ -1,0 +1,66 @@
+<section class="complex" id="{{block_id}}">
+    <div class="container complex__container">
+        <div class="red-block"></div>
+        <h2 class="utp__header complex__header">{{header}}</h2>
+        <div class="complex__block1 col-md-4 col-sm-12 col-xs-12">
+            <div class="complex__title">
+                <div class="complex__wrap">
+                    <div class="complex__title_red">{{title1}}</div>
+                    <div class="complex__title_black">{{subtitle1}}</div>
+                </div>
+            </div>
+            <ul class="complex__info">
+
+                {{#each_with_sort list1 "order"}}
+
+                    <li class="complex__info_block">
+                        <div class="complex__number_block">{{block1_number}}</div>
+                        <div class="complex__text_block {{#if text_red1}}complex__text_block--red {{/if}}{{#if line_through1}}complex__text_block--line-through{{/if}}">{{block1_text}}</div>
+                    </li>
+
+                {{/each_with_sort}}
+
+            </ul>
+        </div>
+        <div class="complex__block2 col-md-4 col-sm-12 col-xs-12">
+            <div class="complex__title">
+                <div class="complex__wrap">
+                    <div class="complex__title_red">{{title2}}</div>
+                    <div class="complex__title_black">{{subtitle2}}</div>
+                </div>
+            </div>
+            <ul class="complex__info">
+
+                {{#each_with_sort list2 "order"}}
+
+                    <li class="complex__info_block">
+                        <div class="complex__number_block">{{block2_number}}</div>
+                        <div class="complex__text_block {{#if text_red2}}complex__text_block--red {{/if}}{{#if line_through2}}complex__text_block--line-through{{/if}}">{{block2_text}}</div>
+                    </li>
+
+                {{/each_with_sort}}
+
+            </ul>
+        </div>
+        <div class="complex__block3 col-md-4 col-sm-12 col-xs-12">
+            <div class="complex__title">
+                <div class="complex__wrap">
+                    <div class="complex__title_red">{{title3}}</div>
+                    <div class="complex__title_black">{{subtitle3}}</div>
+                </div>
+            </div>
+            <ul class="complex__info">
+
+                {{#each_with_sort list3 "order"}}
+
+                <li class="complex__info_block">
+                    <div class="complex__number_block">{{block3_number}}</div>
+                    <div class="complex__text_block {{#if text_red3}}complex__text_block--red {{/if}}{{#if line_through3}}complex__text_block--line-through{{/if}}">{{block3_text}}</div>
+                </li>
+
+                {{/each_with_sort}}
+
+            </ul>
+        </div>
+    </div>
+</section>

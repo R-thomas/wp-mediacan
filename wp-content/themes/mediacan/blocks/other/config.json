@@ -1,0 +1,37 @@
+{
+  "groups": "other",
+  "template": "template.hbs",
+  "settings": [{
+    "name": "block_id",
+    "label": "Block's id",
+    "type": "text"
+  },{
+    "name": "header",
+    "label": "Header",
+    "type": "text"
+  },{
+    "name": "block1",
+    "label": "Название блока 1",
+    "type": "text"
+  },{
+    "name": "block2",
+    "label": "Название блока 2",
+    "type": "text"
+  },{
+    "name": "block3",
+    "label": "Название блока 3",
+    "type": "text"
+  },{
+    "name": "block4",
+    "label": "Название блока 4",
+    "type": "text"
+  }],
+  "defaults": {
+    "block_id": "block8",
+    "header": "Другие наши услуги",
+    "block1": "Создание сайтов любой сложности",
+    "block2": "Дизайн сайтов и приложений",
+    "block3": "Дизайн рекламных баннеров",
+    "block4": "Настройка контекстной рекламы"
+  }
+}

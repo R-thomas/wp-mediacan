@@ -1,0 +1,26 @@
+<section class="clients" id="{{block_id}}">
+    <div class="container utp__container clients_container">
+        <div class="red-block"></div>
+        <h2 class="utp__header clients__header">{{header}}</h2>
+
+        <div class="slider__left col-md-1 col-sm-1 col-xs-1">
+            <span class="slider__left"></span>
+        </div>
+        <div class="slider__wrap col-lg-10 col-md-10 col-sm-10 col-xs-10">
+            <div class="slider">
+                <div class="slider__inner">
+
+                    {{#each_with_sort carousel "order"}}
+
+                        <img src="{{img}}" alt="{{alt}}" class="clients__img">
+
+                    {{/each_with_sort}}
+
+                </div>
+            </div>
+        </div>
+        <div class="slider__right col-md-1 col-sm-1 col-xs-1">
+            <span class="slider__right"></span>
+        </div>
+    </div>
+</section>

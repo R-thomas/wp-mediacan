@@ -1,0 +1,33 @@
+<section class="examples" id="{{block_id}}">
+    <div class="container examples_container">
+        <div class="red-block"></div>
+        <h2 class="example__header">{{header}}</h2>
+        <div class="example__slider">
+            <div id="carousel" class="carousel slide">
+                <ol class="carousel-indicators">
+                    <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                    <li data-target="#carousel" data-slide-to="1"></li>
+                    <li data-target="#carousel" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+
+                    {{#each_with_sort carousel "order"}}
+
+                        <div class="item{{#if active}} active{{/if}}">
+                            <img src="{{img}}" alt="{{alt}}">
+                        </div>
+
+                    {{/each_with_sort}}
+
+                </div>
+                <a href="#carousel" class="left carousel-control" data-slide="prev">
+                    <span class="slide__left"></span>
+                </a>
+                <a href="#carousel" class="right carousel-control" data-slide="next">
+                    <span class="slide__right"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+</section>

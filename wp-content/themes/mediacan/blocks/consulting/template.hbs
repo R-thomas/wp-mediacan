@@ -1,0 +1,44 @@
+<section class="consulting" id="{{{block_id}}}">
+    <div class="container consulting__container">
+        <div class="red-block"></div>
+        <h2 class="example__header">{{{header}}}</h2>
+        <div class="row">
+            <div class="col-md-6 col-sm-12 col-xs-12">
+                <div class="consulting__contacts">
+                    <div class="consulting__left-block col-md-8 col-sm-8 col-xs-8">
+                        <div class="consulting__contacts-header">{{{block_header1}}}</div>
+                        <div class="consulting__messengers">{{{messengers_name}}} <br>
+                            <div><div class="consulting__icons consulting__phone-icons"></div>{{{messenger_phone}}}</div>
+                        </div>
+                        <div class="consulting__messengers">{{{our_post}}}<br>
+                            <div><div class="consulting__icons consulting__email-icons"></div>{{{email}}}</div>
+                        </div>
+                        <div class="consulting__messengers">{{{our_office}}}<br>
+                            <div><div class="consulting__icons consulting__geo-icons"></div>{{{address}}}</div>
+                        </div>
+                    </div>
+                    <div class="consulting__right-block col-md-4 col-sm-4 col-xs-4">
+                        <div class="consulting__red-block"><span>{{{red_block1}}}</span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="consulting__order-wrap col-md-6 col-sm-12 col-xs-12">
+                <div class="consulting__order">
+                    <div class="col-md-8 col-sm-8 col-xs-8">
+                        <div class="consulting__contacts-header">{{{block_header2}}}</div>
+                        <form action="/" method="post" id="consulting-form" class="consulting-form">
+                            <input type="text" name="name" placeholder="{{{placeholder_name}}}" class="consulting-form__name">
+                            <input type="text" name="phone" placeholder="{{{placeholder_phone}}}" class="consulting-form__phone">
+                            <input type="email" name="email" placeholder="{{{placeholder_email}}}" class="consulting-form__email">
+                            <input type="submit" value="{{{submit}}}" id="consulting-form__button" class="consulting-form__button">
+                        </form>
+                    </div>
+                    <div class="consulting__right-block col-md-4 col-sm-4 col-xs-4">
+                        <div class="consulting__red-block"><span>{{{red_block2}}}</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>

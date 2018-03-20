@@ -2,147 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e3c0a5-6bab-4cbd-b614-e10307dcd799" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/languages/twentyfourteen.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/fonts/COPYING.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/fonts/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/fonts/genericons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/languages/twentythirteen.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/languages/twentytwelve.pot" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/Genericons-Regular.otf" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/Genericons-Regular.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.eot" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.woff" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/screenshot.png" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/screenshot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/screenshot.png" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/screenshot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/404.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/archive.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/author.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/author.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-aside.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-aside.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-gallery.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-link.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-link.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-status.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/content-status.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/editor-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/editor-style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/inc/theme-customizer.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/inc/theme-customizer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/inc/theme-options.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/inc/theme-options.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/inc/widgets.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/inc/widgets.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/js/html5.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/js/html5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/languages/twentyeleven.pot" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/languages/twentyeleven.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/readme.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/showcase.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/showcase.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyeleven/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyeleven/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/archive.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/author.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/author.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/category.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/comments.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/comments.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-aside.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-aside.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-audio.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-audio.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-gallery.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-link.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-link.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-quote.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-quote.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-video.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/css/editor-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/css/editor-style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/css/ie.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/css/ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/featured-content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/featured-content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/README.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.svg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/genericons.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/genericons/genericons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/back-compat.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/back-compat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/custom-header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/custom-header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/customizer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/featured-content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/featured-content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/template-tags.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/template-tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/widgets.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/inc/widgets.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/customizer.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/customizer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/functions.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/html5.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/html5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/keyboard-image-navigation.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/keyboard-image-navigation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/slider.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/js/slider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/single.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/tag.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/tag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/taxonomy-post_format.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/taxonomy-post_format.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/archive.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/author.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/author.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/languages/twentyten.pot" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/languages/twentyten.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/loop-attachment.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/loop-attachment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/loop-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/loop-page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/loop-single.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/loop-single.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/loop.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/loop.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/onecolumn-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/onecolumn-page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyten/tag.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyten/tag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/archive.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/author.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/author.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/category.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-aside.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-aside.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-audio.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-audio.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-chat.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-gallery.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-link.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-link.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-quote.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-quote.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-status.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-status.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-video.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/css/editor-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/css/editor-style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/css/ie.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/css/ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/inc/back-compat.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/inc/back-compat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/inc/custom-header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/inc/custom-header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/js/functions.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/js/html5.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/js/html5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/js/theme-customizer.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/js/theme-customizer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/tag.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/tag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentythirteen/taxonomy-post_format.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/taxonomy-post_format.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/archive.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/author.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/author.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/category.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/css/ie.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/css/ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/inc/custom-header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/inc/custom-header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/js/html5.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/js/html5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/js/navigation.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/js/navigation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/js/theme-customizer.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/js/theme-customizer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentytwelve/tag.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwelve/tag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/mainblock/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/clients/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/clients/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/complex/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/complex/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/consulting/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/consulting/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/examples/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/examples/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/footer/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/footer/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/lib.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/mainblock/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/mainblock/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/other/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/other/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/utp/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/utp/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/why/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/why/template.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/inc/ajax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/page-qoob-home.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/layouts/content-sidebar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/layouts/sidebar-content.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/phpcs.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/template-parts/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/template-parts/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/template-parts/content-search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/template-parts/content.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/mediacan/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/mediacan/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -156,18 +62,35 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2025">
-              <caret line="92" column="27" lean-forward="false" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;?php if ( is_singular() ) wp_enqueue_script( &quot;comment-reply&quot; ); ?&gt;</find>
+      <find>../../</find>
+      <find>qoob</find>
+      <find>$qoob_libs</find>
+      <find>lib</find>
+      <find>addDemoLib</find>
+      <find>.header__title</find>
+      <find>line-through</find>
+      <find>text-red</find>
+      <find>subtitle3</find>
+      <find>complex__text_block--red</find>
+      <find>line_through</find>
+      <find>line-t</find>
+      <find>checkbox</find>
+      <find>slide</find>
+      <find>}}</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>../</replace>
+      <replace>text_red</replace>
+      <replace>line_through</replace>
+      <replace>checkbox_switch</replace>
+      <replace>client</replace>
+      <replace>}}}</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -176,6 +99,36 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/mainblock/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/mainblock/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/page-qoob-home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/css/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/utp/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/utp/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/complex/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/complex/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/examples/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/examples/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/why/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/why/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/clients/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/clients/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/consulting/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/consulting/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/other/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/other/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/lib.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/footer/template.hbs" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/blocks/footer/config.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/js/main.js" />
+        <option value="$PROJECT_DIR$/wp-admin/admin-ajax.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mediacan/inc/ajax.php" />
+        <option value="$PROJECT_DIR$/wp-admin/orders.txt" />
       </list>
     </option>
   </component>
@@ -187,9 +140,13 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ColorIdeProjectViewPane" proportions="" version="1">
@@ -206,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ColorIdeProjectViewPane">
         <subPane>
           <PATH>
@@ -273,12 +229,146 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-mediacan.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-mediacan.loc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mediacan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-mediacan.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-mediacan.loc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mediacan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-mediacan.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-mediacan.loc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\wp-mediacan.loc\wp-content\themes\mediacan\blocks\mainblock" />
+      <recent name="C:\OpenServer\domains\wp-mediacan.loc\wp-content\themes\mediacan\blocks\mainblock\assets\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -290,33 +380,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520243553446</updated>
-      <workItem from="1520243555229" duration="559000" />
+      <workItem from="1520243555229" duration="7329000" />
+      <workItem from="1520306423988" duration="5796000" />
+      <workItem from="1520847141086" duration="11000" />
+      <workItem from="1520847180887" duration="16926000" />
+      <workItem from="1520910517704" duration="9342000" />
+      <workItem from="1521014631831" duration="12967000" />
+      <workItem from="1521453004234" duration="14000" />
+      <workItem from="1521453443623" duration="3512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="559000" />
+    <option name="totallyTimeSpent" value="55897000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1936" height="1038" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18697916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Get Gist" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Get Gist" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -332,7 +429,290 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/404.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/lib.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mediacan.loc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15575">
+          <caret line="623" column="42" lean-forward="false" selection-start-line="623" selection-start-column="42" selection-end-line="623" selection-end-column="42" />
+          <folding>
+            <element signature="n#ul#0;n#div#2;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#3;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/404.php" />
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="92" column="27" lean-forward="false" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/template-parts/content-page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/qoob/qoob/blocks/lib.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2282">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/qoob/qoob/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/qoob/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2188">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/qoob/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/qoob/qoob.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="76" column="72" lean-forward="false" selection-start-line="76" selection-start-column="67" selection-end-line="76" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/page-qoob-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/utp/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="42" lean-forward="false" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../solid.loc/wp-content/themes/solid/blocks/portfolio/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../solid.loc/wp-content/themes/solid/blocks/portfolio/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="268" column="2" lean-forward="false" selection-start-line="268" selection-start-column="2" selection-end-line="268" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/complex/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/mainblock/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/why/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="50" lean-forward="false" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/mainblock/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/examples/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/complex/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3200">
+          <caret line="93" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="304" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/why/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="54" column="39" lean-forward="false" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/utp/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="88" column="134" lean-forward="false" selection-start-line="88" selection-start-column="134" selection-end-line="88" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/clients/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/clients/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1618">
+          <caret line="76" column="53" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/consulting/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/other/preview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/other/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="85" lean-forward="false" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/consulting/preview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/consulting/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="68" column="15" lean-forward="true" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/other/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/examples/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/orders.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -340,11 +720,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/inc/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="92" column="27" lean-forward="false" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+        <state relative-caret-position="525">
+          <caret line="30" column="45" lean-forward="false" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mediacan.loc/script.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="67" column="1" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="85" column="23" lean-forward="true" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="114" column="31" lean-forward="false" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/footer/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="65" column="61" lean-forward="false" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/footer/template.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="36" column="84" lean-forward="false" selection-start-line="36" selection-start-column="84" selection-end-line="36" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mediacan/blocks/lib.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="65" column="39" lean-forward="false" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mediacan.loc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="453" column="75" lean-forward="false" selection-start-line="453" selection-start-column="32" selection-end-line="453" selection-end-column="75" />
+          <folding>
+            <element signature="n#ul#0;n#div#2;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#3;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

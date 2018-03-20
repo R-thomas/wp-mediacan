@@ -1,0 +1,87 @@
+{
+  "groups": "consulting",
+  "template": "template.hbs",
+  "settings": [{
+    "name": "block_id",
+    "label": "Block's id",
+    "type": "text"
+  },{
+    "name": "header",
+    "label": "Header",
+    "type": "text"
+  },{
+    "name": "block_header1",
+    "label": "Название блока 1",
+    "type": "text"
+  },{
+    "name": "messengers_name",
+    "label": "Названия мессенжеров",
+    "type": "text"
+  },{
+    "name": "messenger_phone",
+    "label": "Номер телефона",
+    "type": "text"
+  },{
+    "name": "our_post",
+    "label": "Наша почта",
+    "type": "text"
+  },{
+    "name": "email",
+    "label": "Email",
+    "type": "text"
+  },{
+    "name": "our_office",
+    "label": "Наш офис",
+    "type": "text"
+  },{
+    "name": "address",
+    "label": "Адрес",
+    "type": "text"
+  },{
+    "name": "red_block1",
+    "label": "Заголовок красного блока 1",
+    "type": "text"
+  },{
+    "name": "block_header2",
+    "label": "Название блока 2",
+    "type": "text"
+  },{
+    "name": "placeholder_name",
+    "label": "Placeholder 1",
+    "type": "text"
+  },{
+    "name": "placeholder_phone",
+    "label": "Placeholder 2",
+    "type": "text"
+  },{
+    "name": "placeholder_email",
+    "label": "Placeholder 3",
+    "type": "text"
+  },{
+    "name": "submit",
+    "label": "Текст кнопки",
+    "type": "text"
+  },{
+    "name": "red_block2",
+    "label": "Заголовок красного блока 2",
+    "type": "text"
+  }],
+  "defaults": {
+    "block_id": "block6",
+    "header": "Нужна консультация?",
+    "block_header1": "Контакты",
+    "messengers_name": "WhatsApp / Viber / Telegram: ",
+    "messenger_phone": "+380997929449",
+    "our_post": "Наша почта: ",
+    "email": "mediakan@yandex.ru",
+    "our_office": "Наш офис: ",
+    "address": "г. Донецк, ул. Артема, 2Б, <br>офис 305",
+    "red_block1": "Работаем <br>по СНГ",
+    "block_header2": "Заявка на консультацию",
+    "placeholder_name": "Ваше имя*",
+    "placeholder_phone": "Телефон*",
+    "placeholder_email": "E-mail*",
+    "submit": "Отправить заявку",
+    "red_block2": "Мы с вами свяжемся"
+    }
+}

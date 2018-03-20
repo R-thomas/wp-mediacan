@@ -1,0 +1,68 @@
+{
+  "groups": "footer",
+  "template": "template.hbs",
+  "settings": [{
+    "name": "block_id",
+    "label": "Block's id",
+    "type": "text"
+  },{
+    "name": "img",
+    "label": "Лого",
+    "type": "image"
+  },{
+    "name": "btn_value",
+    "label": "Текст кнопки",
+    "type": "text"
+  },{
+    "name": "our_post",
+    "label": "Наша почта заголовок",
+    "type": "text"
+  },{
+    "name": "email",
+    "label": "Email",
+    "type": "text"
+  },{
+    "name": "messengers",
+    "label": "Название мессенжеров",
+    "type": "text"
+  },{
+    "name": "tel",
+    "label": "Номер телефона",
+    "type": "text"
+  },{
+    "name": "soc_header",
+    "label": "Заголовок соцсетей",
+    "type": "text"
+  },{
+    "name": "url_vk",
+    "label": "Адрес ВК",
+    "type": "text"
+  },{
+    "name": "url_facebook",
+    "label": "Адрес Фэйсбук",
+    "type": "text"
+  },{
+    "name": "url_insta",
+    "label": "Адрес Инстаграм",
+    "type": "text"
+  },{
+    "name": "copyright",
+    "label": "Копирайт",
+    "type": "text"
+  }],
+  "defaults": {
+    "block_id": "block4",
+    "header": "Примеры наших работ",
+    "img": "%block_url%/assets/img/footer_logo.jpg",
+    "btn_value": "Консультация",
+    "our_post": "Наша почта:",
+    "email": "mediakan@yandex.ru",
+    "messengers": "WhatsApp / Viber / Telegram:",
+    "tel": "+380997929449",
+    "soc_header": "Мы в соц.сетях:",
+    "url_vk": "http://vk.com",
+    "url_facebook": "http://fb.com",
+    "url_insta": "http://instagram.com",
+    "copyright": "© 2015 - 2018, МедиаКан. Все права защищены"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "groups": "why",
+  "template": "template.hbs",
+  "settings": [{
+    "name": "block_id",
+    "label": "Block's id",
+    "type": "text"
+  },{
+    "name": "header",
+    "label": "Header",
+    "type": "text"
+  },{
+    "name": "cause1",
+    "label": "Cause1",
+    "type": "text"
+  },{
+    "name": "cause2",
+    "label": "Cause2",
+    "type": "text"
+  },{
+    "name": "cause3",
+    "label": "Cause3",
+    "type": "text"
+  },{
+    "name": "cause4",
+    "label": "Cause4",
+    "type": "text"
+  },{
+    "name": "cause5",
+    "label": "Cause5",
+    "type": "text"
+  },{
+    "name": "cause6",
+    "label": "Cause6",
+    "type": "text"
+  },{
+    "name": "cause7",
+    "label": "Cause7",
+    "type": "text"
+  },{
+    "name": "cause8",
+    "label": "Cause8",
+    "type": "text"
+  }],
+  "defaults": {
+    "block_id": "block5",
+    "header": "Почему выбирают нас?",
+    "cause1": "3 года работы <br>в соц.сетях",
+    "cause2": "Комплексный <br>подход",
+    "cause3": "Работа по <br>договору",
+    "cause4": "Цени ниже чем <br>у конкурентов",
+    "cause5": "Стабильная работа <br>без перебоев (пиздеж)",
+    "cause6": "Гарантия <br>эффетивной работы (пиздеж)",
+    "cause7": "Оплата <br>частями",
+    "cause8": "Открытая <br>статистика"
+    }
+}

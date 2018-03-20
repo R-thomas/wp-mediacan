@@ -1,7 +1,21 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Артем
- * Date: 06.03.2018
- * Time: 6:35
+ * Template name: Home page for Qoob
  */
+?>
+
+<?php get_header();?>
+
+<?php
+if ( have_posts() ) :
+
+	while ( have_posts() ) :
+		the_post();
+		the_content();
+
+	endwhile;
+
+endif;
+?>
+<?php get_footer(); ?>
+

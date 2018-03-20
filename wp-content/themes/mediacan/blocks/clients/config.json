@@ -1,0 +1,82 @@
+{
+  "groups": "clients",
+  "template": "template.hbs",
+  "settings": [{
+    "name": "block_id",
+    "label": "Block's id",
+    "type": "text"
+  },{
+    "name": "header",
+    "label": "Header",
+    "type": "text"
+  },{
+    "name": "carousel",
+    "label": "Carousel",
+    "type": "accordion_flip",
+    "settings": [
+      {
+        "name": "img",
+        "label": "Url img",
+        "type": "image"
+      },{
+        "name": "alt",
+        "label": "Alt text",
+        "type": "text"
+      }
+    ]
+  }],
+  "defaults": {
+    "block_id": "block5",
+    "header": "Наши клиенты",
+    "carousel": [
+      {
+        "img": "%block_url%/assets/img/client1.jpg",
+        "alt": "",
+        "order": 1
+      },{
+        "img": "%block_url%/assets/img/client2.jpg",
+        "alt": "",
+        "order": 2
+      },{
+        "img": "%block_url%/assets/img/client3.jpg",
+        "alt": "",
+        "order": 3
+      },{
+        "img": "%block_url%/assets/img/client4.jpg",
+        "alt": "",
+        "order": 4
+      },{
+        "img": "%block_url%/assets/img/client5.jpg",
+        "alt": "",
+        "order": 5
+      },{
+        "img": "%block_url%/assets/img/client6.jpg",
+        "alt": "",
+        "order": 6
+      },{
+        "img": "%block_url%/assets/img/client7.jpg",
+        "alt": "",
+        "order": 7
+      },{
+        "img": "%block_url%/assets/img/client8.jpg",
+        "alt": "",
+        "order": 8
+      },{
+        "img": "%block_url%/assets/img/client9.jpg",
+        "alt": "",
+        "order": 9
+      },{
+        "img": "%block_url%/assets/img/client10.jpg",
+        "alt": "",
+        "order": 10
+      },{
+        "img": "%block_url%/assets/img/client11.jpg",
+        "alt": "",
+        "order": 11
+      },{
+        "img": "%block_url%/assets/img/client12.jpg",
+        "alt": "",
+        "order": 12
+      }
+    ]}
+}

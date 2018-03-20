@@ -1,0 +1,37 @@
+{
+  "groups": "main",
+  "template": "template.hbs",
+  "settings": [{
+    "name": "block_id",
+    "label": "Block's id",
+    "type": "text"
+  },
+    {
+      "name": "image",
+      "label": "Logo image",
+      "type": "image",
+      "tags" : ["logo"]
+    },
+    {
+      "name": "tel",
+      "label": "Telephone",
+      "type": "text"
+    },
+    {
+      "name": "header",
+      "label": "Header H1",
+      "type": "text"
+    },
+    {
+      "name": "header2",
+      "label": "Header H2",
+      "type": "text"
+    }],
+  "defaults": {
+    "block_id": "id",
+    "image": "%block_url%/assets/img/logo.png",
+    "tel": "+38 (099) 79-29-449",
+    "header": "Комплексное продвижение <br>бизнеса в инстаграм",
+    "header2": "и других социальных сетях"
+  }
+}

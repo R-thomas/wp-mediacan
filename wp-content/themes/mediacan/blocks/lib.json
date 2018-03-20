@@ -1,0 +1,68 @@
+{
+  "name": "mediakan",
+  "groups": [{
+    "id": "main",
+    "label": "Main Block",
+    "position": 0
+  },{
+      "id": "utp",
+      "label": "Utp Block",
+      "position": 1
+    },{
+      "id": "complex",
+      "label": "Complex",
+      "position": 2
+    },{
+      "id": "examples",
+      "label": "Examples",
+      "position": 3
+    },{
+      "id": "why",
+      "label": "Why",
+      "position": 4
+    },{
+      "id": "clients",
+      "label": "Our clients",
+      "position": 5
+    },{
+      "id": "consulting",
+      "label": "Консультация",
+      "position": 6
+    },{
+      "id": "other",
+      "label": "Другие услуги",
+      "position": 7
+    },{
+      "id": "footer",
+      "label": "Подвал",
+      "position": 8
+    }],
+  "blocks": [{
+    "name": "mainblock",
+    "url": "%theme_url%/blocks/mainblock/"
+  },{
+      "name": "utp",
+      "url": "%theme_url%/blocks/utp/"
+  },{
+      "name": "complex",
+      "url": "%theme_url%/blocks/complex/"
+    },{
+      "name": "examples",
+      "url": "%theme_url%/blocks/examples/"
+    },{
+      "name": "why",
+      "url": "%theme_url%/blocks/why/"
+    },{
+      "name": "clients",
+      "url": "%theme_url%/blocks/clients/"
+    },{
+      "name": "consulting",
+      "url": "%theme_url%/blocks/consulting/"
+    },{
+      "name": "other",
+      "url": "%theme_url%/blocks/other/"
+    },{
+      "name": "footer",
+      "url": "%theme_url%/blocks/footer/"
+    }]
+}

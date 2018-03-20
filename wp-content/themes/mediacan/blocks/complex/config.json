@@ -1,0 +1,305 @@
+{
+  "groups": "complex",
+  "template": "template.hbs",
+  "settings": [{
+      "name": "block_id",
+      "label": "Block's id",
+      "type": "text"
+    },{
+      "name": "Header",
+      "label": "Header",
+      "type": "text"
+    },{
+      "name": "title1",
+      "label": "Title 1",
+      "type": "text"
+    },{
+      "name": "subtitle1",
+      "label": "Subtitle 1",
+      "type": "text"
+    },{
+      "name": "list1",
+      "label": "List1",
+      "type": "accordion_flip",
+      "settings": [
+        {
+          "name": "block1_number",
+          "label": "Number",
+          "type": "text"
+        },{
+          "name": "block1_text",
+          "label": "Text",
+          "type": "textarea"
+        },{
+          "name": "line_through1",
+          "label": "Line through",
+          "type": "checkbox_switch"
+        },{
+          "name": "text_red1",
+          "label": "Red text",
+          "type": "checkbox_switch"
+        }
+      ]
+    },{
+      "name": "title2",
+      "label": "Title 2",
+      "type": "text"
+    },{
+      "name": "subtitle2",
+      "label": "Subtitle 2",
+      "type": "text"
+    },{
+      "name": "list2",
+      "label": "List2",
+      "type": "accordion_flip",
+      "settings": [
+        {
+          "name": "block2_number",
+          "label": "Number",
+          "type": "text"
+        },{
+          "name": "block2_text",
+          "label": "Text",
+          "type": "textarea"
+        },{
+          "name": "line_through2",
+          "label": "Line through",
+          "type": "checkbox_switch"
+        },{
+          "name": "text_red2",
+          "label": "Red text",
+          "type": "checkbox_switch"
+        }
+      ]
+    },{
+      "name": "title3",
+      "label": "Title 3",
+      "type": "text"
+    },{
+      "name": "subtitle3",
+      "label": "Subtitle 3",
+      "type": "text"
+    },{
+      "name": "list3",
+      "label": "List3",
+      "type": "accordion_flip",
+      "settings": [
+        {
+          "name": "block3_number",
+          "label": "Number",
+          "type": "text"
+        },{
+          "name": "block3_text",
+          "label": "Text",
+          "type": "textarea"
+        },{
+          "name": "line_through3",
+          "label": "Line through",
+          "type": "checkbox_switch"
+        },{
+          "name": "text_red3",
+          "label": "Red text",
+          "type": "checkbox_switch"
+        }
+      ]
+    }],
+  "defaults": {
+    "block_id": "block3",
+    "header": "Комплексные предложения",
+    "title1": "КОМПЛЕКС «СТАРТ»",
+    "subtitle1": "(1 месяц работы)",
+    "list1": [
+      {
+        "block1_number": "1",
+        "block1_text": "Анализ Вашего бизнеса, определение стратегии продвижения",
+        "line_through1": 0,
+        "text_red1": 0,
+        "order": 1
+      },{
+        "block1_number": "2",
+        "block1_text": "Подготовка Вашего аккаунта к продвижению. Разработка аватара и продающего описания",
+        "line_through1": 0,
+        "text_red1": 0,
+        "order": 2
+      },{
+        "block1_number": "3",
+        "block1_text": "Привлечение целевой аудитории с помощью масслайкинга и массфолловинга",
+        "line_through1": 0,
+        "text_red1": 0,
+        "order": 3
+      },{
+        "block1_number": "4",
+        "block1_text": "Публикация 3 новостей в сутки с описанием и хештегами. За 1 месяц работы - 90 новостей",
+        "line_through1": 0,
+        "text_red1": 0,
+        "order": 4
+      },{
+        "block1_number": "5",
+        "block1_text": "Профессиональная обработка фотографий для контента и разработка рекламных баннеров",
+        "line_through1": 0,
+        "text_red1": 0,
+        "order": 5
+      },{
+        "block1_number": "6",
+        "block1_text": "Привлечение подписчиков для наращивания общей массы, + 1500 человек в месяц.",
+        "line_through1": 0,
+        "text_red1": 0,
+        "order": 6
+      },{
+        "block1_number": "7",
+        "block1_text": "Настройка таргетированной рекламы - официальная реклама в инстаграм",
+        "line_through1": 1,
+        "text_red1": 0,
+        "order": 7
+      },{
+        "block1_number": "8",
+        "block1_text": "Мониторинг и ответы на комментарии под фотографиями и ответы в директ",
+        "line_through1": 1,
+        "text_red1": 0,
+        "order": 8
+      },{
+        "block1_number": "9",
+        "block1_text": "Оформление группы в ВК, ОК или ФБ. Создание фирменного стиля для соц.сетей",
+        "line_through1": 1,
+        "text_red1": 0,
+        "order": 9
+      },{
+        "block1_number": "10",
+        "block1_text": "+ Продвижение вашего бизнеса в одной из соц.сетей: ВК, ОК или ФБ. Включает весь перечень услуг",
+        "line_through1": 1,
+        "text_red1": 0,
+        "order": 10
+      }
+    ],
+    "title2": "КОМПЛЕКС «БИЗНЕС»",
+    "subtitle2": "(1 месяц работы)",
+    "list2": [
+      {
+        "block2_number": "1",
+        "block2_text": "Анализ Вашего бизнеса, определение стратегии продвижения",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 1
+      },{
+        "block2_number": "2",
+        "block2_text": "Подготовка Вашего аккаунта к продвижению. Разработка аватара и продающего описания",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 2
+      },{
+        "block2_number": "3",
+        "block2_text": "Привлечение целевой аудитории с помощью масслайкинга и массфолловинга",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 3
+      },{
+        "block2_number": "4",
+        "block2_text": "Публикация 3 новостей в сутки с описанием и хештегами. За 1 месяц работы - 90 новостей",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 4
+      },{
+        "block2_number": "5",
+        "block2_text": "Профессиональная обработка фотографий для контента и разработка рекламных баннеров",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 5
+      },{
+        "block2_number": "6",
+        "block2_text": "Привлечение подписчиков для наращивания общей массы, + 1500 человек в месяц.",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 6
+      },{
+        "block2_number": "7",
+        "block2_text": "Настройка таргетированной рекламы - официальная реклама в инстаграм",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 7
+      },{
+        "block2_number": "8",
+        "block2_text": "Мониторинг и ответы на комментарии под фотографиями и ответы в директ",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 8
+      },{
+        "block2_number": "9",
+        "block2_text": "Оформление группы в ВК, ОК или ФБ. Создание фирменного стиля для соц.сетей",
+        "line_through2": 0,
+        "text_red2": 0,
+        "order": 9
+      },{
+        "block2_number": "10",
+        "block2_text": "+ Продвижение вашего бизнеса в одной из соц.сетей: ВК, ОК или ФБ. Включает весь перечень услуг",
+        "line_through2": 1,
+        "text_red2": 0,
+        "order": 10
+      }
+    ],
+    "title3": "КОМПЛЕКС «VIP»",
+    "subtitle3": "(1 месяц работы)",
+    "list3": [
+      {
+        "block3_number": "1",
+        "block3_text": "Анализ Вашего бизнеса, определение стратегии продвижения",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 1
+      },{
+        "block3_number": "2",
+        "block3_text": "Подготовка Вашего аккаунта к продвижению. Разработка аватара и продающего описания",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 2
+      },{
+        "block3_number": "3",
+        "block3_text": "Привлечение целевой аудитории с помощью масслайкинга и массфолловинга",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 3
+      },{
+        "block3_number": "4",
+        "block3_text": "Публикация 3 новостей в сутки с описанием и хештегами. За 1 месяц работы - 90 новостей",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 4
+      },{
+        "block3_number": "5",
+        "block3_text": "Профессиональная обработка фотографий для контента и разработка рекламных баннеров",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 5
+      },{
+        "block3_number": "6",
+        "block3_text": "Привлечение подписчиков для наращивания общей массы, + 1500 человек в месяц.",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 6
+      },{
+        "block3_number": "7",
+        "block3_text": "Настройка таргетированной рекламы - официальная реклама в инстаграм",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 7
+      },{
+        "block3_number": "8",
+        "block3_text": "Мониторинг и ответы на комментарии под фотографиями и ответы в директ",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 8
+      },{
+        "block3_number": "9",
+        "block3_text": "Оформление группы в ВК, ОК или ФБ. Создание фирменного стиля для соц.сетей",
+        "line_through3": 0,
+        "text_red3": 0,
+        "order": 9
+      },{
+        "block3_number": "10",
+        "block3_text": "+ Продвижение вашего бизнеса в одной из соц.сетей: ВК, ОК или ФБ. Включает весь перечень услуг",
+        "line_through3": 0,
+        "text_red3": 1,
+        "order": 10
+      }
+    ]
+  }
+}

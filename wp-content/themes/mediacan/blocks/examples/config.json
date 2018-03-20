@@ -1,0 +1,53 @@
+{
+  "groups": "examples",
+  "template": "template.hbs",
+  "settings": [{
+    "name": "block_id",
+    "label": "Block's id",
+    "type": "text"
+  },{
+    "name": "header",
+    "label": "Header",
+    "type": "text"
+  },{
+    "name": "carousel",
+    "label": "Carousel",
+    "type": "accordion_flip",
+    "settings": [
+      {
+        "name": "img",
+        "label": "Url img",
+        "type": "image"
+      },{
+        "name": "alt",
+        "label": "Alt text",
+        "type": "text"
+      },{
+        "name": "active",
+        "label": "Active slide",
+        "type": "checkbox"
+      }
+    ]
+  }],
+  "defaults": {
+    "block_id": "block4",
+    "header": "Примеры наших работ",
+    "carousel": [
+      {
+        "img": "%block_url%/assets/img/slide1.jpg",
+        "alt": "",
+        "active": 1,
+        "order": 1
+      },{
+        "img": "%block_url%/assets/img/slide2.jpg",
+        "alt": "",
+        "active": 0,
+        "order": 2
+      },{
+        "img": "%block_url%/assets/img/slide3.jpg",
+        "alt": "",
+        "active": 0,
+        "order": 3
+      }
+    ]}
+}

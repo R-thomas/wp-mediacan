@@ -1,0 +1,111 @@
+</main>
+<footer class="footer" id="{{block_id}}">
+    <div class="container footer__container">
+        <div class="footer__logo col-md-2 col-sm-6 col-xs-12">
+            <a href="#"><img src="{{img}}" alt=""></a>
+        </div>
+        <div class="footer__button col-lg-offset-1 col-md-offset-1 col-md-2 col-sm-6 col-xs-12">
+            <a href=".modal-consult" data-toggle="modal"><div class="footer__consult">{{btn_value}}</div></a>
+        </div>
+        <div class="footer-post col-md-2 col-sm-6 col-xs-12">
+            <div class="footer-post__icon"></div>
+            <div class="footer-post__container">
+                <span class="footer-post__header">{{our_post}}</span><br>
+                <span class="footer-post__text">{{email}}</span>
+            </div>
+        </div>
+        <div class="footer-post col-md-3 col-sm-6 col-xs-12">
+            <div class="footer-post__icon footer-tel__icon"></div>
+            <div class="footer-post__container">
+                <span class="footer-post__header">{{messengers}}</span><br>
+                <span class="footer-post__text">{{tel}}</span>
+            </div>
+        </div>
+        <div class="footer__social-media col-md-2 col-sm-12 col-xs-12">
+            <div class="social-media__header">{{soc_header}}</div>
+            <div class="social-media__icons">
+                <a href="{{url_vk}}" target="_blank" class="social-media__vk-icon"></a>
+                <a href="{{url_facebook}}" target="_blank" class="social-media__fb-icon"></a>
+                <a href="{{url_insta}}" target="_blank" class="social-media__insta-icon"></a>
+            </div>
+        </div>
+    </div>
+    <div class="footer__bottom">{{copyright}}</div>
+</footer>
+
+<div id="modal-consult" class="modal fade modal-consult" tabindex="-1">
+    <div class="modal-dialog modal-consult__dialog" style="background-color: #ffff">
+        <div class="modal-body modal-consult__body">
+            <button type="button" class="modal-consult__close close glyphicon glyphicon-remove" data-dismiss="modal"></button>
+            <div class="consulting__order modal-consult__order">
+                <div class="col-md-8 col-sm-8 col-xs-8">
+                    <div class="consulting__contacts-header">Заявка на консультацию</div>
+                    <form action=/a.php" method="post" class="consulting-form" id="consulting-form-modal">
+                        <input type="text" name="name" placeholder="Ваше имя" class="consulting-form__name consulting-form__name-modal">
+                        <input type="text" name="phone" placeholder="Телефон" class="consulting-form__phone consulting-form__phone-modal">
+                        <input type="email" name="email" placeholder="E-mail*" class="consulting-form__email consulting-form__email-modal">
+                        <input type="text" name="link" placeholder="Ссылка на instagram или ВК, FB" class="consulting-form__link consulting-form__link-modal">
+                        <input type="submit" name="submit" value="Отправить заявку" id="consulting-form__button-modal" class="consulting-form__button">
+                    </form>
+                </div>
+                <div class="consulting__right-block col-md-4 col-sm-4 col-xs-4">
+                    <div class="consulting__red-block"><span>Мы с вами свяжемся</span></div>
+                </div>
+                <a href="#modal-thank" data-toggle="modal" class="modal-trigger"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="modal-order" class="modal fade modal-consult" tabindex="-1">
+    <div class="modal-dialog modal-consult__dialog" style="background-color: #ffffff;">
+        <div class="modal-body modal-consult__body">
+            <button type="button" class="modal-consult__close close glyphicon glyphicon-remove" data-dismiss="modal"></button>
+            <div class="consulting__order modal-consult__order">
+                <div class="col-md-8 col-sm-8 col-xs-8">
+                    <div class="consulting__contacts-header">Заказ услуги</div>
+                    <form action=/a.php" method="post" class="consulting-form" id="consulting-form-order">
+                        <input type="text" name="name" placeholder="Ваше имя" class="consulting-form__name consulting-form__name-modal">
+                        <input type="text" name="phone" placeholder="Телефон" class="consulting-form__phone consulting-form__phone-modal">
+                        <input type="email" name="email" placeholder="E-mail*" class="consulting-form__email consulting-form__email-modal">
+                        <input type="text" name="link" placeholder="Ссылка на instagram или ВК, FB" class="consulting-form__link consulting-form__link-modal">
+                        <input type="hidden" name="order" id="order-area-info">
+                        <input type="submit" name="submit" value="Отправить заявку" id="consulting-form__order-modal" class="consulting-form__button">
+                    </form>
+                </div>
+                <div class="consulting__right-block col-md-4 col-sm-4 col-xs-4">
+                    <div class="consulting__red-block"><span>Мы с вами свяжемся</span></div>
+                </div>
+                <a href="#modal-thank" data-toggle="modal" class="modal-trigger"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="modal-thank" class="modal fade modal-thank" tabindex="-1">
+    <div class="modal-dialog modal-consult__thank" style="background-color: #ffffff;">
+        <div class="modal-body modal-consult__body modal-thank__body">
+            <button type="button" class="modal-consult__close close glyphicon glyphicon-remove" data-dismiss="modal"></button>
+            <div class="consulting__order modal-consult__thank">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="consulting__contacts-header">Ваша заявка отправлена</div>
+                </div>
+                <div class="consulting__right-block col-md-6 col-sm-6 col-xs-6">
+                    <div class="modal-thank__red-block"><span>В ближайшее время мы с вами свяжемся</span></div>
+                </div>
+                <div class="footer__social-media modal__social-media col-md-6 col-sm-6 col-xs-6">
+                    <div class="social-media__header">Мы в соц.сетях:</div>
+                    <div class="social-media__icons">
+                        <a href="http://vk.com" target="_blank" class="social-media__vk-icon"></a>
+                        <a href="http://fb.com" target="_blank" class="social-media__fb-icon"></a>
+                        <a href="http://instagram.com" target="_blank" class="social-media__insta-icon"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="scroll-to-top">
+
+</div>
